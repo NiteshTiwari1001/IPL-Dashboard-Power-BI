@@ -87,7 +87,11 @@ The dashboard provides deep insights into team performance, player statistics, m
 ![Dashboard](IPL_Dashboard_PowerBI/ScreenShots/Dashboard.png)
 
 ---
+## 🧠 Data Model (Model View)
 
+This project uses a multi-table data model with relationships between ball by ball data, match data, teams data, and players data.
+
+![Model View](IPL_Dashboard_PowerBI/ScreenShots/Model.png)
 ---
 
 ## 📂 Project Files
