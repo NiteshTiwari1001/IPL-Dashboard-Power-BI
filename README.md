@@ -83,20 +83,10 @@ The dashboard provides deep insights into team performance, player statistics, m
 ---
 
 ## 📸 Dashboard Preview
-> Add your screenshots here
 
-```markdown
-IPL_Dashboard_PowerBI/Screenshots/dashboard.png
-```
+![Dashboard](IPL_Dashboard_PowerBI/ScreenShots/Dashboard.png)
 
 ---
-
-## 🚀 Live Dashboard
-> Add your Power BI Service link here
-
-```
-https://app.powerbi.com/...
-```
 
 ---
 
