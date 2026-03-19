@@ -86,7 +86,7 @@ The dashboard provides deep insights into team performance, player statistics, m
 > Add your screenshots here
 
 ```markdown
-![Dashboard](IPL_Dashboard_PowerBI/ScreenShots/Dashboard.png)
+IPL_Dashboard_PowerBI/Screenshots/dashboard.png
 ```
 
 ---
