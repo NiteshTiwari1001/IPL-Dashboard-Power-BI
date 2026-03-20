@@ -110,9 +110,4 @@ This project uses a multi-table data model with relationships between ball by ba
 
 ---
 
-## 📬 Contact
-If you have any feedback or suggestions, feel free to connect!
-
----
-
 ⭐ If you like this project, consider giving it a star!
